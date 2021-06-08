@@ -1,0 +1,17 @@
+make sold only?
+when searching "model", add color?
+
+weird difference between clicking and searching
+ignored if less than half the price or more than double
+
+words to take out/tokenize
+"used", 'electric guitar', 'left hand', year?, 'pickups included', 'usa'
+'with ...'
+'lyons lyon'
+dump years
+below certain price, 300
+get out of quotes
+
+https://reverb.com/item/38980864-fender-stratocaster-customized-usa-left-hand-2011-12-original-pickups-included?bk=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiIxMjg2OGY4Zi0wYTUzLTQ3ZDEtYWRiZi05NTg3ZTcwZDFkYTUiLCJpYXQiOjE2MTgwNzg4ODQsInVzZXJfaWQiOiIiLCJzZXNzaW9uX2lkIjoiIiwiY29va2llX2lkIjoiOGY0Y2I5OGQtNTYwZS00MmI1LTg1MjgtYjJlYzdhZDg0Mjc2IiwicHJvZHVjdF9pZCI6IjM4OTgwODY0Iiwic291cmNlIjoiTk9ORSJ9.xDVQsKaiwP-7KRHByP7MWMBZeYb2tb0UxdqMqjFkf1k
+
+make more efficient by reading list at start of automation then saving at end. instead of constantly reading and appending
